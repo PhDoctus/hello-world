@@ -9,6 +9,7 @@ This is my introduction repo to Github.com
 - [ ] follow me on LinkedIn!
 - [ ] follow me on Twitter!
 - [ ] follow me on here!
+- [ ] on second thought NEVERMIND!
 
 PHDoctus
 : someone desperately trying to not look stupid, while doing stupid things. *I hope this makes you laugh.*
